@@ -9,7 +9,7 @@ int main() {
         if(arr[i]>0){
           positive++;
         }
-    }
+    };
     if(length==positive){
       printf("TRUE");
     }
